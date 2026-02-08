@@ -1,0 +1,23 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-01-16 04:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_peaks": "2026-01-17 09:02:56 +0000",
+      "minecraft:forest": "2026-01-17 03:21:09 +0000",
+      "minecraft:savanna": "2026-01-16 04:17:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2026-01-16 05:33:41 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
